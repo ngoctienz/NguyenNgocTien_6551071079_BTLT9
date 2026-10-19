@@ -1,0 +1,13 @@
+# Build & publish output
+obj/
+
+# Visual Studio & IDE cache
+.vs/
+*.user
+
+# Logs
+logs/
+Logs/
+
+# Environment-specific configuration
+appsettings.Development.json

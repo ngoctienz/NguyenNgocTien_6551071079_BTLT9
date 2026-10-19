@@ -1,0 +1,19 @@
+## Build and compile (chỉ bỏ qua obj, cho phép bin)
+**/[Oo]bj/
+
+## Visual Studio & IDEs
+**/.vs/
+**/.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Temp & Log
+**/logs/
+**/Logs/
+*.log
+
+## Local configuration
+**/appsettings.Development.json
+desktop.ini
